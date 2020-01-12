@@ -2,6 +2,6 @@
 <br>
 Hi, This is my portfolios.
 <br>
-### Digglet Adventure
+## Digglet 20Adventure
 <br>
-![](https://github.com/sam19951212/Portfolios/raw/master/Digglet Adventure/Images/main_menu.png)  
+![](https://github.com/sam19951212/Portfolios/tree/master/Digglet%20Adventure/Images/main_menu.png)  
