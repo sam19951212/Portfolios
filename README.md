@@ -4,8 +4,8 @@ Portfolios
 Hi! This is my portfolios.<br>
 
 ### Chinaware
-![text](../master/Chinaware/Images/main_menu.png)
-![text](../master/Chinaware/Images/Image1.png)
+![text](../master/Chinaware/Images/main_menu.jpg)
+![text](../master/Chinaware/Images/Image1.jpg)
 ### GengLuBu
 ![text](../master/GengLuBu/Images/Image1.png)
 ### Digglet Adventure
