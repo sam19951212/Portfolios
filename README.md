@@ -1,6 +1,7 @@
 # Portfolios
 <br>
-¡¡¡¡Hi, This is my portfolios.
+Hi, This is my portfolios.
 <br>
 ### Digglet Adventure
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+<br>
+![](https://github.com/sam19951212/Portfolios/raw/master/Digglet Adventure/Images/main_menu.png)  
