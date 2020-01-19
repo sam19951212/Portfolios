@@ -1,4 +1,4 @@
-Design Statement - Chinaware
+Chinaware
 ====================================================
 　　Chinaware was my first company’s project. It is an online 3D mobile educational game about Chinese Porcelain arts. It contains several modules to help the users to experience and understand the beauty of tradition Chinese Porcelain making. Users can experience the mold process from throwing, coloring, enameling, drawing (customized patterns) to the final firing and share their favorite work with friends. The game presents the process from blank selection to firing in 3D form, allowing the users to experience the complicated and arduous process of porcelain manufacturing. The game also demonstrates the technical differences of varied classic porcelain types and tells the story of porcelain inheritance and development in the vicissitude of dynasties.<br>
 　　The project was developed by a development team while I was one of the new programmer. I programmed development requirements purposed by game designers and managers. Specifically, I developed game features, including UI, 3D interaction with scenes, camera movements, muti-language system and manage game components.<br>
