@@ -1,4 +1,4 @@
-Design Statement - Digglet Adventure
+Digglet Adventure
 ====================================================
 　　Digglet Adventure was my first game project while I studied aboard in Copenhagen, Denmark. It required by one of the course, Game Development, as a practical and conceptual introduction to game design and development. This project was significant to me since it was my first time to develop a playable game and the success of this project leaded me to a career of game developer.<br>
 　　The game is a 2D platformer puzzle game in which the player controls a Diglett, a pokemon, conquering a sequence of levels. The main mechanic we implemented is the ability to destroy and recreate particular objects in the scene. In the game scene, there are several preset blocks, each having its unique ability to help the player reach the final portal to the next level.<br>
