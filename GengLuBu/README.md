@@ -1,6 +1,6 @@
 GengLuBu
 ====================================================
-　　GengLuBu was my second company’s project. It is an online 3D mobile simulation game about Chinese traditional culture.<br>
+　　GengLuBu was my second company’s project. It is an online 3D mobile simulation game about Chinese traditional culture. <br>
 
 ## Supplements<br>
 **Promotion video:**<br>
